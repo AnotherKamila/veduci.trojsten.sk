@@ -1,0 +1,23 @@
+mail:
+  name: Trojstenový GMail
+  icon: //ssl.gstatic.com/gb/images/v1_89332204.png
+  url:  https://mail.google.com/a/trojsten.sk/
+  help: https://goo.gl/XIPExN
+
+drive:
+  name: Trojstenový Google Drive
+  icon: //ssl.gstatic.com/gb/images/v1_89332204.png
+  url:  https://drive.google.com/a/trojsten.sk/
+  help: https://goo.gl/Jz0AXu
+
+calendar:
+  name: Trojstenový Google Calendar
+  icon: //ssl.gstatic.com/gb/images/v1_89332204.png
+  url:  https://calendar.google.com/a/trojsten.sk/
+
+wiki:
+  name: Trojstenová wiki
+
+techwiki:
+  name: Trojstenová TechWiki
+  url:  https://techwiki.trojsten.sk
