@@ -1,0 +1,84 @@
+---
+---
+
+=vendor-prefix($name, $argument)
+  -webkit-#{$name}: #{$argument}
+  -moz-#{$name}: #{$argument}
+  -o-#{$name}: #{$argument}
+  #{$name}: #{$argument}
+
+$primary-color: #0089a2
+
+$button-width: 20em
+
+body
+  margin: 0
+  padding: 0
+  font-family: sans-serif
+
+header
+  text-align: center
+  padding: 2em 0
+
+#links
+  display: block
+  max-width: 2*$button-width + 3em
+  margin: 0 auto
+
+.link-button
+  display: block
+  float: left
+  position: relative
+  width: $button-width
+  margin: .5em
+  border: 1px solid #ccc
+  +vendor-prefix(border-radius, 5px)
+
+  h1, p
+    margin: 0
+
+  .link
+    display: block
+    height: 5em
+    padding: 1em
+
+  .help-button
+    display: inline-block
+    position: absolute
+    bottom: 0
+    right:  0
+    padding: .6em .8em
+    border-top:  1px solid #ccc
+    border-left: 1px solid #ccc
+    font-weight: bold
+    color: #aaa
+    background: #fff
+    +vendor-prefix(border-radius, 5px 0)
+
+  &:hover
+    background: #f6f6f6
+  &:hover,
+  &:hover .help-button
+    border-color: #aaa
+  .help-button:hover
+    background: #ddd
+    color: #999
+    
+  a
+    color: $primary-color
+    text-decoration: none
+  img
+    float: left
+    width:  48px
+    height: 48px
+    margin: 0 1em 1em 0
+  .url
+    font-size: .8em
+    clear: both
+  h1
+    font-size: 1.2em
+
+@media (max-width: 2*$button-width + 3em)
+  .link-button
+    float: none
+    margin: .5em auto

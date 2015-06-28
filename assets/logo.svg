@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="320"
+   height="168"
+   viewBox="0 0 320 168"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/kamila/u/projects/trojsten/veduci.trojsten.sk/assets/logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata190">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs188">
+    <linearGradient
+       id="linearGradient3901">
+      <stop
+         style="stop-color:#999999;stop-opacity:0.78571427;"
+         offset="0"
+         id="stop3903" />
+      <stop
+         style="stop-color:#999999;stop-opacity:0;"
+         offset="1"
+         id="stop3905" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3901"
+       id="linearGradient3907"
+       x1="200.80702"
+       y1="-192.80769"
+       x2="200.80702"
+       y2="-115.77111"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.70760644,0,0,0.7064268,-5.15212,248.50449)" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1598"
+     inkscape:window-height="865"
+     id="namedview186"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="44.72034"
+     inkscape:cy="-68.860847"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-page="true" />
+  <rect
+     style="fill:url(#linearGradient3907);fill-opacity:1;stroke:none"
+     id="rect3131"
+     width="17.444614"
+     height="167.44794"
+     x="136.94023"
+     y="0.55206269"
+     ry="3.7664289"
+     rx="3.7664287"
+     inkscape:export-filename="/home/kamila/u/projects/trojsten/veduci.trojsten.sk/assets/logo.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     style="fill:#ffffff;stroke:#b3b3b3;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+     d="m 1.4999984,34.41441 279.3179916,0 38.21075,36.542796 L 280.81799,107.5 1.4999984,107.5 z"
+     id="rect3128"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccc"
+     inkscape:export-filename="/home/kamila/u/projects/trojsten/veduci.trojsten.sk/assets/logo.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <g
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     id="misc"
+     transform="matrix(0.70760644,0,0,0.7064268,2.9834287,-73.650018)"
+     inkscape:export-filename="/home/kamila/u/projects/trojsten/veduci.trojsten.sk/assets/logo.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <!-- default stroke -->
+  <g
+     id="g4142"
+     style="fill:#0089a2;fill-opacity:1"
+     transform="matrix(0.76722384,-2.8364317e-4,2.8411682e-4,0.76594481,-129.37207,-44.364751)"
+     inkscape:export-filename="/home/kamila/u/projects/trojsten/veduci.trojsten.sk/assets/logo.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <g
+       id="g21"
+       transform="scale(0.34217,0.34217)"
+       style="fill:#0089a2;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+      <clipPath
+         id="clip2">
+        <path
+           inkscape:connector-curvature="0"
+           id="path24"
+           d="m 0,0 0,737 1429,0 0,-737 z" />
+      </clipPath>
+      <g
+         id="g26"
+         clip-path="url(#clip2)"
+         style="fill:#0089a2;fill-opacity:1">
+        <g
+           style="fill:#0089a2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="g28">
+          <path
+             inkscape:connector-curvature="0"
+             id="path30"
+             d="M 578.84,417.8 559,534 l 99,-64 -75.13,27.81 z"
+             style="fill:#0089a2;fill-opacity:1" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- clip2 -->
+    </g>
+    <g
+       id="g32"
+       transform="scale(0.34217,0.34217)"
+       style="fill:#0089a2;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+      <clipPath
+         id="clip3">
+        <path
+           inkscape:connector-curvature="0"
+           id="path35"
+           d="m 0,0 0,737 1429,0 0,-737 z" />
+      </clipPath>
+      <g
+         id="g37"
+         clip-path="url(#clip3)"
+         style="fill:#0089a2;fill-opacity:1">
+        <g
+           style="fill:#0089a2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="g39">
+          <path
+             inkscape:connector-curvature="0"
+             id="path41"
+             d="M 592.27,481.94 702.83,441.02 597.9,387.28 659.55,438.44 z"
+             style="fill:#0089a2;fill-opacity:1" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- clip3 -->
+    </g>
+    <g
+       id="g43"
+       transform="scale(0.34217,0.34217)"
+       style="fill:#0089a2;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+      <clipPath
+         id="clip4">
+        <path
+           inkscape:connector-curvature="0"
+           id="path46"
+           d="m 0,0 0,737 1429,0 0,-737 z" />
+      </clipPath>
+      <g
+         id="g48"
+         clip-path="url(#clip4)"
+         style="fill:#0089a2;fill-opacity:1">
+        <g
+           style="fill:#0089a2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="g50">
+          <path
+             inkscape:connector-curvature="0"
+             id="path52"
+             d="m 641.11,438.23 -90.72,-75.28 5.93,117.74 13.48,-78.98 z"
+             style="fill:#0089a2;fill-opacity:1" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- clip4 -->
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:33.22977066px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway Semi-Bold"
+     x="61.807423"
+     y="82.66906"
+     id="text3075"
+     sodipodi:linespacing="125%"
+     transform="scale(1.0008346,0.9991661)"
+     inkscape:export-filename="/home/kamila/u/projects/trojsten/veduci.trojsten.sk/assets/logo.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan3077"
+       x="61.807423"
+       y="82.66906" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:33.22977066px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway Semi-Bold"
+     x="64.470345"
+     y="88.479073"
+     id="text3079"
+     sodipodi:linespacing="125%"
+     transform="scale(1.0008346,0.9991661)"
+     inkscape:export-filename="/home/kamila/u/projects/trojsten/veduci.trojsten.sk/assets/logo.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan3081"
+       x="64.470345"
+       y="88.479073" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:33.22977066px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway Semi-Bold"
+     x="35.662323"
+     y="82.911133"
+     id="text3083"
+     sodipodi:linespacing="125%"
+     transform="scale(1.0008346,0.9991661)"
+     inkscape:export-filename="/home/kamila/u/projects/trojsten/veduci.trojsten.sk/assets/logo.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan3085"
+       x="35.662323"
+       y="82.911133" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:33.22977066px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway Semi-Bold"
+     x="59.628662"
+     y="82.911133"
+     id="text3087"
+     sodipodi:linespacing="125%"
+     transform="scale(1.0008346,0.9991661)"
+     inkscape:export-filename="/home/kamila/u/projects/trojsten/veduci.trojsten.sk/assets/logo.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan3089"
+       x="59.628662"
+       y="82.911133" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:38.8859024px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway Semi-Bold"
+     x="86.984177"
+     y="82.66906"
+     id="text3091"
+     sodipodi:linespacing="125%"
+     transform="scale(1.0008346,0.9991661)"
+     inkscape:export-filename="/home/kamila/u/projects/trojsten/veduci.trojsten.sk/assets/logo.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan3093"
+       x="86.984177"
+       y="82.66906" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40.29993439px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway Semi-Bold"
+     x="87.952515"
+     y="87.752831"
+     id="text3095"
+     sodipodi:linespacing="125%"
+     transform="scale(1.0008346,0.9991661)"
+     inkscape:export-filename="/home/kamila/u/projects/trojsten/veduci.trojsten.sk/assets/logo.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan3097"
+       x="87.952515"
+       y="87.752831" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40.29993439px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway Semi-Bold"
+     x="74.395805"
+     y="87.994904"
+     id="text3099"
+     sodipodi:linespacing="125%"
+     transform="scale(1.0008346,0.9991661)"
+     inkscape:export-filename="/home/kamila/u/projects/trojsten/veduci.trojsten.sk/assets/logo.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan3101"
+       x="74.395805"
+       y="87.994904" /></text>
+  <g
+     style="font-size:57px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway Semi-Bold"
+     id="text3103"
+     transform="matrix(0.70760644,0,0,0.7064268,1.0000093,36.576445)"
+     inkscape:export-filename="/home/kamila/u/projects/trojsten/veduci.trojsten.sk/assets/logo.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       d="m 123.68787,30.500802 -33.345,0 0,5.643 13.509,0 0,34.827 6.384,0 0,-34.827 13.452,0 0,-5.643"
+       id="path3623"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 135.55456,70.970802 0,-14.079 9.348,0 8.892,14.079 7.239,0 -9.633,-15.39 c 4.78799,-1.538998 7.923,-6.498005 7.923,-11.913 0,-6.497993 -5.24401,-13.167 -12.54,-13.167 l -17.613,0 0,40.47 6.384,0 m 0,-34.827 10.83,0 c 3.36299,0 6.441,3.363004 6.441,7.524 0,4.103996 -2.50801,7.581 -6.099,7.581 l -11.172,0 0,-15.105"
+       id="path3625"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 183.55479,71.255802 c 11.05799,0 19.209,-9.69001 19.209,-20.463 0,-10.14599 -7.63801,-20.577 -19.038,-20.577 -11.05799,0 -19.266,9.747011 -19.266,20.52 0,10.37399 7.69501,20.52 19.095,20.52 m -12.597,-20.52 c 0,-7.295992 4.73101,-14.706 12.654,-14.706 7.63799,0 12.654,7.011008 12.654,14.706 0,7.238993 -4.67401,14.763 -12.654,14.763 -7.75199,0 -12.654,-7.125007 -12.654,-14.763"
+       id="path3627"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 203.89489,69.089802 c 2.39399,1.652999 5.301,2.508 8.778,2.508 12.76798,0 14.364,-8.208012 14.364,-20.52 l 0,-20.52 -6.441,0 0,20.52 c 0,9.746991 -0.91201,14.763 -7.923,14.763 -3.249,0 -5.98501,-1.083001 -7.239,-1.995 l -1.539,5.244"
+       id="path3629"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 262.61557,34.775802 c -3.47699,-2.564997 -8.151,-4.56 -13.737,-4.56 -8.20799,0 -14.592,4.332008 -14.592,12.312 0,6.326994 4.04701,8.721002 12.027,10.83 7.011,1.823998 11.058,2.964004 11.058,7.011 0,3.419997 -2.85,5.244 -7.695,5.244 -6.38399,0 -12.084,-3.192002 -14.022,-5.187 l -2.964,5.472 c 4.617,3.533997 10.60201,5.472 16.758,5.472 8.037,0 14.82,-3.306008 14.82,-11.742 0,-7.466992 -5.358,-9.576002 -13.338,-11.628 -6.72599,-1.709998 -10.032,-2.565004 -10.032,-6.441 0,-3.533996 2.67901,-5.643 7.638,-5.643 5.301,0 9.633,2.451002 11.172,4.104 l 2.907,-5.244"
+       id="path3631"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 300.03162,30.500802 -33.345,0 0,5.643 13.509,0 0,34.827 6.384,0 0,-34.827 13.452,0 0,-5.643"
+       id="path3633"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 311.89831,65.327802 0,-12.369 18.069,0 0,-5.301 -18.069,0 0,-11.514 20.862,0 0,-5.643 -27.246,0 0,40.47 27.759,0 0,-5.643 -21.375,0"
+       id="path3635"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 369.43535,70.970802 5.301,0 0,-40.413 -6.441,0 0,29.127 -23.142,-29.184 -5.016,0 0,40.47 6.384,0 0,-28.5 22.914,28.5"
+       id="path3637"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
+<!-- bounding box -->
+

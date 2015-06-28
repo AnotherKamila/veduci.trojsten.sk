@@ -1,1 +1,35 @@
-TODO
+---
+title: Vedúcovský "rázcestník"
+---
+
+<!DOCTYPE html>
+<html lang="sk">
+  <head>
+    <meta charset="utf-8">
+    <title>{{page.title}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="assets/style.css">
+  </head>
+
+  <body>
+    <header>
+      <img src="assets/logo.png" alt='Vedúcovský "rázcestník" Trojstenu' />
+    </header>
+
+    <nav id="links">
+      {% for link in site.data.links %}
+        {% assign id = link[0], attr = link[1] %}
+        <div class="link-button">
+          <a class="link" id="{{link[0]}}" href="{{link[1].url}}">
+            <img alt="{{link[1].name}}" src="{{link[1].icon}}" />
+            <h1>{{link[1].name}}</h1>
+            <p class="url">{{link[1].url}}</p>
+          </a>
+          {% if link[1].help %}<a class="help-button" title="README / pomoc / voľačo" href="{{link[1].help}}">?</a>{% endif %}
+        </div>
+      {% endfor %}
+      <!-- TODO dopatlať link na navrhnutie/dopísanie ďalšej linky -->
+    </nav>
+
+  </body>
+</html>
