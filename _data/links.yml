@@ -1,3 +1,10 @@
+wiki:
+  name: Vedúcovská wiki
+
+techwiki:
+  name: TechWiki
+  #url:  https://techwiki.trojsten.sk
+
 mail:
   name: Trojstenový GMail
   icon: assets/mail.png
@@ -14,10 +21,3 @@ calendar:
   name: Trojstenový Google Calendar
   icon: assets/calendar.png
   url:  https://calendar.google.com/a/trojsten.sk/
-
-wiki:
-  name: Vedúcovská wiki
-
-techwiki:
-  name: TechWiki
-  url:  https://techwiki.trojsten.sk
