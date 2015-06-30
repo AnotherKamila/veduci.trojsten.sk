@@ -4,20 +4,21 @@ wiki:
 techwiki:
   name: TechWiki
   #url:  https://techwiki.trojsten.sk
+  icon: assets/techwiki.svg  # TODO link, not copy once techwiki is online
 
 mail:
   name: Trojstenový GMail
-  icon: assets/mail.png
   url:  https://mail.google.com/a/trojsten.sk/
+  icon: assets/mail.png
   help: https://goo.gl/XIPExN
 
 drive:
   name: Trojstenový Google Drive
-  icon: assets/drive.png
   url:  https://drive.google.com/a/trojsten.sk/
+  icon: assets/drive.png
   help: https://goo.gl/Jz0AXu
 
 calendar:
   name: Trojstenový Google Calendar
-  icon: assets/calendar.png
   url:  https://calendar.google.com/a/trojsten.sk/
+  icon: assets/calendar.png
