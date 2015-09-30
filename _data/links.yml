@@ -1,11 +1,11 @@
 wiki:
   name: Vedúcovská wiki
   url:  https://wiki.trojsten.sk/
-  icon: assets/wiki.png
+  icon: assets/wiki.svg
 
 responsible:
   name: Kontaktovník -- s čím za kým
-  icon: assets/responsible.png
+  icon: assets/responsible.svg
   url:  https://goo.gl/OqwcmQ 
 
 gitlab:
@@ -35,5 +35,5 @@ drive:
 techwiki:
   name: TechWiki
   #url: https://techwiki.trojsten.sk
-  url:  http://ksp.sk/~kamila/techwiki/
-  icon: http://people.ksp.sk/~kamila/techwiki/favicon.svg
+  url:  https://ksp.sk/~kamila/techwiki/
+  icon: //people.ksp.sk/~kamila/techwiki/favicon.svg
