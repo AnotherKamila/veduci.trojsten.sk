@@ -36,4 +36,4 @@ techwiki:
   name: TechWiki
   #url: https://techwiki.trojsten.sk
   url:  http://ksp.sk/~kamila/techwiki/
-  icon: assets/techwiki.svg  # TODO link, not copy once techwiki is online
+  icon: http://people.ksp.sk/~kamila/techwiki/favicon.svg
