@@ -1,19 +1,16 @@
 wiki:
   name: Vedúcovská wiki
   url:  https://wiki.trojsten.sk/
-
-manual:
-  name: Som tu nový
-  icon: assets/manual.png
-
-gitlab:
-  name: Repozitáre seminárov
-  icon: assets/gitlab.png
+  icon: assets/wiki.png
 
 responsible:
   name: Kontaktovník -- s čím za kým
   icon: assets/responsible.png
-  url:  https://docs.google.com/spreadsheets/d/1i0nszDgCjQ98TO4APPOBkT9yGT5-OUj1vs52IzRiME4/edit#gid=0
+  url:  https://goo.gl/OqwcmQ 
+
+gitlab:
+  name: Repozitáre seminárov
+  icon: assets/gitlab.png
 
 #contacts:
 #  name: Kontakty na všetkých Trojsteňákov
@@ -36,7 +33,7 @@ calendar:
   icon: assets/calendar.png
 
 techwiki:
-  name:
-  #url:  https://techwiki.trojsten.sk
+  name: TechWiki
+  #url: https://techwiki.trojsten.sk
   url:  http://ksp.sk/~kamila/techwiki/
   icon: assets/techwiki.svg  # TODO link, not copy once techwiki is online
