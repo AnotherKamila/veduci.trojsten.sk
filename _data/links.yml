@@ -1,24 +1,42 @@
 wiki:
   name: Vedúcovská wiki
+  url:  https://wiki.trojsten.sk/
 
-techwiki:
-  name: TechWiki
-  #url:  https://techwiki.trojsten.sk
-  icon: assets/techwiki.svg  # TODO link, not copy once techwiki is online
+manual:
+  name: Som tu nový
+  icon: assets/manual.png
+
+gitlab:
+  name: Repozitáre seminárov
+  icon: assets/gitlab.png
+
+responsible:
+  name: Kontaktovník -- s čím za kým
+  icon: assets/responsible.png
+  url:  https://docs.google.com/spreadsheets/d/1i0nszDgCjQ98TO4APPOBkT9yGT5-OUj1vs52IzRiME4/edit#gid=0
+
+#contacts:
+#  name: Kontakty na všetkých Trojsteňákov
 
 mail:
-  name: Trojstenový GMail
+  name: Môj trojstenový GMail
   url:  https://mail.google.com/a/trojsten.sk/
   icon: assets/mail.png
   help: https://goo.gl/XIPExN
 
 drive:
-  name: Trojstenový Google Drive
+  name: Môj trojstenový Google Drive
   url:  https://drive.google.com/a/trojsten.sk/
   icon: assets/drive.png
   help: https://goo.gl/Jz0AXu
 
 calendar:
-  name: Trojstenový Google Calendar
+  name: Môj trojstenový Google Calendar
   url:  https://calendar.google.com/a/trojsten.sk/
   icon: assets/calendar.png
+
+techwiki:
+  name:
+  #url:  https://techwiki.trojsten.sk
+  url:  http://ksp.sk/~kamila/techwiki/
+  icon: assets/techwiki.svg  # TODO link, not copy once techwiki is online
