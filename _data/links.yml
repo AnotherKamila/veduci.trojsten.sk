@@ -15,6 +15,11 @@ gitlab:
 #contacts:
 #  name: Kontakty na všetkých Trojsteňákov
 
+calendar:
+  name: Môj trojstenový Google Calendar
+  url:  https://calendar.google.com/a/trojsten.sk/
+  icon: assets/calendar.png
+
 mail:
   name: Môj trojstenový GMail
   url:  https://mail.google.com/a/trojsten.sk/
@@ -26,11 +31,6 @@ drive:
   url:  https://drive.google.com/a/trojsten.sk/
   icon: assets/drive.png
   help: https://goo.gl/Jz0AXu
-
-calendar:
-  name: Môj trojstenový Google Calendar
-  url:  https://calendar.google.com/a/trojsten.sk/
-  icon: assets/calendar.png
 
 techwiki:
   name: TechWiki
