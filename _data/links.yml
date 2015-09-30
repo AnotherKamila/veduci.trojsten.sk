@@ -8,9 +8,9 @@ responsible:
   icon: assets/responsible.svg
   url:  https://goo.gl/OqwcmQ 
 
-gitlab:
+repos:
   name: Repozitáre seminárov
-  icon: assets/gitlab.png
+  icon: assets/repos.svg
 
 #contacts:
 #  name: Kontakty na všetkých Trojsteňákov
