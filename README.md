@@ -1,7 +1,7 @@
 veduci.trojsten.sk
 ==================
 
-Budúce "rázcestie" pre Trojstenových vedúcich -- zbierka liniek na pre vedúcich dôležité stránky. Eventuálne bude visieť na [veduci.trojsten.sk](https://veduci.trojsten.sk).
+Budúce "rázcestie" pre Trojstenových vedúcich -- zbierka liniek na pre vedúcich dôležité stránky. Visí na [veduci.trojsten.sk](https://veduci.trojsten.sk).
 
 Linky sú v súbore `_data/links.yml`.
 
